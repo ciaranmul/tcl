@@ -2,15 +2,15 @@
 	"name": "tcl",
 	"displayName": "Tcl",
 	"description": "Tcl language support",
-	"version": "0.2.0",
-	"publisher": "sleutho",
+	"version": "0.2.1",
+	"publisher": "ciaranmul",
 	"icon": "images/Tcl-powered.svg",
 	"engines": {
 		"vscode": "^0.10.1"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/sleutho/tcl.git"
+		"url": "https://github.com/cmulholl/tcl.git"
 	},
 	"categories": [
 		"Languages"
