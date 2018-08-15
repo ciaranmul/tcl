@@ -1,4 +1,4 @@
-# Tcl for Visual Studio Code
+# Tcl with Expect language support for Visual Studio Code
 
 - Language service
   - Syntax highlighting
